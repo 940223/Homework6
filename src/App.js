@@ -55,8 +55,6 @@ class App extends React.Component {
           ChangeCompleteTop={this.AllChangeComplete.bind(this)}
           DeleteItemTop={this.AllOnDeleteItem.bind(this)} 
         />
-      
-
       </div>
     )
   }
